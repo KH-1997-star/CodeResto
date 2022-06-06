@@ -1,0 +1,14 @@
+{
+    "count": 1,
+    "results": [
+        {
+            "Identifiant": "6272524fcaf7680778681f91",
+            "titre": "codeResto",
+            "logo": "http://51.83.99.222:8052/uploads/black.png",
+            "couleurPrincipal": "#22b99a",
+            "couleurSecondaire": "#2185d0",
+            "autres": "",
+            "isActive": "1"
+        }
+    ]
+}
